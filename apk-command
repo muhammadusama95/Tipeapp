@@ -1,0 +1,8 @@
+EXPO_ANDROID_KEYSTORE_PASSWORD="123456" \
+EXPO_ANDROID_KEY_PASSWORD="123456" \
+turtle build:android \
+  --type apk \
+  --keystore-path ./my-upload-key.keystore \
+  --keystore-alias "my-key-alias" \
+  --allow-non-https-public-url \
+  --public-url http://127.0.0.1:8000/android-index.json

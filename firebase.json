@@ -1,0 +1,12 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "functions": {
+    "source": "functions"
+  },
+  "extensions": {
+    "firestore-send-email": "firebase/firestore-send-email@0.1.17"
+  }
+}

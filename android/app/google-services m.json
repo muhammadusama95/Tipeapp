@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721503229986",
+    "project_id": "tipeameapp",
+    "storage_bucket": "tipeameapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721503229986:android:fb82ca6c48c426e014927b",
+        "android_client_info": {
+          "package_name": "com.TipeameSL.tipeameapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721503229986-qgcpha1ck39rpvc2foq4rnefcl03i5f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZsjlYN8T4BHx6yBxSbdLl_AMeLjARYhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721503229986-qgcpha1ck39rpvc2foq4rnefcl03i5f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
